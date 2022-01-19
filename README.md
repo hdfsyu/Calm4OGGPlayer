@@ -1,5 +1,5 @@
 # Calm4OGGPlayer
-This is just an OGG Player that plays the file "Calm4.ogg" from Minecraft alpha 1.1.1
+This is just an OGG Player that plays the file "Calm4.ogg" from Minecraft alpha 1.1.1, and for you haters HA! IM NOT DEAD YET!!!!!!!!!
 # Building
 Use devkitpro in order to build it, then type `make`
 # Running
